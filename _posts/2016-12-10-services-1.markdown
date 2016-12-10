@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: starters.jpg
 category: services
 title: Starters
 description: |
 ---
-  A delectable selection of [starters](/starters.html)
+  A delectable selection of [starters](/starters.html). Let's just hope that Henry (or Hambo!) doesn't eat them all first.

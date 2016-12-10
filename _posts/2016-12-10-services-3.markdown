@@ -1,8 +1,9 @@
 ---
 layout: default
-img: phones.png
+img: merry.jpg
 category: services
 title: Sweeties
 description: |
 ---
-Even though we all always pretend we don't want sweets, we secretly do want them. [Sweeties](/sweeties.html)
+Even though we all always pretend we don't want sweets, we secretly do want them.
+I expect by this time, we'll all be having a merry time. [See sweets](/sweeties.html).
