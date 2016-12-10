@@ -164,3 +164,15 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+.container.post {
+  padding-left: 100px;
+  padding-right: 100px;
+  margin: 20px;
+  margin-bottom: 20px;
+  font-weight: normal;
+}
+
+.container.post em {
+  color: blue;
+}

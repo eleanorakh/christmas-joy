@@ -7,6 +7,10 @@ categories: sweeties
 
 # Sweeties
 
+I know we're all trying to be good and whatnot, so we all say that we don't want any dessert.
+But then suddenly it's cooling off and we're all full and someone mentions a biscuit.
+[Here's the below as a PDF you can print.]({{ site.url }}/assets/2016-12-10-sweeties.pdf)
+
 - Mums divine Almond Snakes **Note: I can get the fresh phyllo down here**
 - Figs stuffed with chocolate and walnuts (or dates)
 - [Babousa][babousa-recipe]
@@ -41,3 +45,5 @@ Method:
 8. When ready to serve, top the cake with the coconut chips and the coconut and shaved almonds. Slice and enjoy!
 
 [babousa-recipe]: [http://www.themediterraneandish.com/basbousa-almond-coconut-semolina-cake/]
+
+[Get as a PDF]({{ site.url }}/assets/2016-12-10-sweeties.pdf)

@@ -7,6 +7,8 @@ categories: starters
 
 # To Start
 
+[View here as a PDF]({{ site.url }}/assets/2016-12-10-starters.pdf) that you can print
+
 - [Labne][labne-recipe]
 - [Beetroot Tzatziki][beetroot-recipe]
 - [Baba Ganoush][baba-recipe]
@@ -96,3 +98,5 @@ This can be grilled on the BBQ if we want, or just roasted in the oven with feta
 [pita-recipe]: [http://www.seriouseats.com/recipes/2015/08/perfect-pita-bread-recipe.html]
 [baba-recipe]: [http://www.seriouseats.com/recipes/2014/02/the-best-baba-ganoush-recipe.html]
 [tahini-sauce-recipe]: [http://www.seriouseats.com/recipes/2016/03/israeli-style-tahini-sauce-recipe.html]
+
+[Get as a PDF]({{ site.url }}/assets/2016-12-10-starters.pdf)

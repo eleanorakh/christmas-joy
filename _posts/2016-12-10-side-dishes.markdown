@@ -15,6 +15,8 @@ These are to go with Dads amazing Turkey and couscous. And spuds of course!
 Aside from chopping, the only thing that really needs to be done for these
 is roasting the cauliflowers, chickpeas, and nuts. Which can all be done the day before.
 
+[View as a PDF you can print]({{ site.url }}/assets/2016-12-10-side-dishes.pdf)
+
 **Chickpea Salad with Red Onion, Sumac, and Lemon**
 
 - 3 cups uncooked chickpeas (or four tins)
@@ -70,3 +72,5 @@ DRESSING
 
 1. Roast Cauliflower
 2. Moosh together
+
+[Get as a PDF]({{ site.url }}/assets/2016-12-10-side-dishes.pdf)
