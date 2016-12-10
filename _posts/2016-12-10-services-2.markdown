@@ -1,0 +1,8 @@
+---
+layout: default
+img: dog.png
+category: services
+title: Side Dishes
+description: |
+---
+  [Sides](/side-dishes.html) to accompany Dad's amazing Turkey, couscous, and spuds.
