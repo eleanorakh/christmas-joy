@@ -5,4 +5,4 @@ category: services
 title: Starters
 description: |
 ---
-  A delectable selection of [starters](/starters.html). Let's just hope that Henry (or Hambo!) doesn't eat them all first.
+  A delectable selection of [starters]({{ site.url }}/starters.html). Let's just hope that Henry (or Hambo!) doesn't eat them all first.

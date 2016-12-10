@@ -5,5 +5,5 @@ category: services
 title: Side Dishes
 description: |
 ---
-  [Sides](/side-dishes.html) to accompany Dad's amazing Turkey, couscous, and spuds.
+  [Sides]({{ site.url }}/side-dishes.html) to accompany Dad's amazing Turkey, couscous, and spuds.
   Let's hop that the day has beautiful weather like this!
