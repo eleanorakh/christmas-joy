@@ -5,5 +5,5 @@ category: services
 title: Menu
 description: |
 ---
-  An actual list of everything I've got planned on the [menu](/menu.html). Because
+  An actual list of everything I've got planned on the [menu]({{ site.url }}/menu.html). Because
   that's probably really useful to have in one big list.
