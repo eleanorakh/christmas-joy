@@ -1,0 +1,9 @@
+---
+layout: default
+img: beer.jpg
+category: services
+title: Menu
+description: |
+---
+  An actual list of everything I've got planned on the [menu](/menu.html). Because
+  that's probably really useful to have in one big list.
