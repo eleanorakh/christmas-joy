@@ -7,7 +7,7 @@ categories: sides
 
 ## Sides
 
-- [Chickpea Salad with Red Onion, Sumac, and Lemon;][chickpea-recipe]
+- [Chickpea Salad with Red Onion, Sumac, and Lemon][chickpea-recipe]
 - Fresh salad;
 - Cauliflower and Tahini Salad
 
@@ -73,4 +73,5 @@ DRESSING
 1. Roast Cauliflower
 2. Moosh together
 
+[chickpea-recipe]: http://thewanderlustkitchen.com/sumac-and-spice-roasted-chickpeas/
 [Get as a PDF]({{ site.url }}/assets/2016-12-10-side-dishes.pdf)

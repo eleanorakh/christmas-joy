@@ -44,6 +44,6 @@ Method:
 7. As soon as the basbousa is removed from the oven, pour the cool syrup on the hot basbousa. Let cool completely; syrup must be absorbed into the cake. For best result, let it sit for 1 hour before serving.
 8. When ready to serve, top the cake with the coconut chips and the coconut and shaved almonds. Slice and enjoy!
 
-[babousa-recipe]: [http://www.themediterraneandish.com/basbousa-almond-coconut-semolina-cake/]
+[babousa-recipe]: http://www.themediterraneandish.com/basbousa-almond-coconut-semolina-cake/
 
 [Get as a PDF]({{ site.url }}/assets/2016-12-10-sweeties.pdf)
